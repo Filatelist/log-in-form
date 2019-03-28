@@ -1,0 +1,7 @@
+.hover{
+    color: gray;
+}
+.hover:hover{
+    color: orange;
+    transition: 0.2s;
+}
